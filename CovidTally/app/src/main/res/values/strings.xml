@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CovidTally</string>
+    <string name="greaterthanorequal" >\u2265</string >
+    <string name="lessthanorequal" >\u2264</string >
+</resources>
